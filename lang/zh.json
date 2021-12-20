@@ -1,16 +1,16 @@
 {
   "Blockchain": {
-    "Mnemonic": "",
+    "Mnemonic": null,
     "Address": "地址",
     "Wallet": "钱包",
-    "Wallets": "",
-    "Balance": "",
-    "Tx hash": "",
-    "Gas": "",
+    "Wallets": null,
+    "Balance": null,
+    "Tx hash": null,
+    "Gas": null,
     "Tax": "税金",
     "Fee": "手续费",
-    "decimals": "",
-    "APY": ""
+    "decimals": null,
+    "APY": null
   },
   "Form": {
     "Amount": "数量",
@@ -18,67 +18,67 @@
     "Address": "地址",
     "Memo": "Memo",
     "Name": "智能合约名称",
-    "optional": "",
-    "Submit": "",
+    "optional": null,
+    "Submit": null,
     "Confirm": "确认",
-    "Reset": ""
+    "Reset": null
   },
   "Validate": {
     "{{label}} is required": "请输入{{label}}",
-    "{{label}} is not defined": "",
-    "{{label}} is not available": "",
-    "{{label}} is not supported": "",
+    "{{label}} is not defined": null,
+    "{{label}} is not available": null,
+    "{{label}} is not supported": null,
     "{{label}} is invalid": "{{label}}无效",
     "{{label}} already exists": "{{label}}已存在",
-    "{{label}} does not exist": "",
-    "{{label}} must be longer than {{length}} characters": "",
-    "Already exists": "",
+    "{{label}} does not exist": null,
+    "{{label}} must be longer than {{length}} characters": null,
+    "Already exists": null,
     "Invalid": "无效",
-    "Invalid {{label}}": ""
+    "Invalid {{label}}": null
   },
   "Loading": {
-    "Initializing app...": "",
+    "Initializing app...": null,
     "Loading...": "加载中...",
     "Simulating...": "模拟中...",
-    "Broadcasting a tx...": "",
-    "Broadcasting transaction": "",
-    "Queued": ""
+    "Broadcasting a tx...": null,
+    "Broadcasting transaction": null,
+    "Queued": null
   },
   "Success": {
     "Success!": "成功！"
   },
   "Failure": {
-    "Failed": "",
-    "Simulation failed": "",
-    "User denied": "",
-    "Failed to create tx": "",
-    "Tx failed": ""
+    "Failed": null,
+    "Simulation failed": null,
+    "User denied": null,
+    "Failed to create tx": null,
+    "Tx failed": null
   },
   "Application": {
-    "Go back": "",
-    "View": "",
-    "Show all": "",
+    "Go back": null,
+    "View": null,
+    "Show all": null,
     "Copy": "复制",
     "Copied": "复制完成",
     "Active": "Active",
-    "Inactive": "",
-    "Not found": ""
+    "Inactive": null,
+    "Not found": null
   },
   "Units": {
-    "year": "",
-    "day": "",
+    "year": null,
+    "day": null,
     "{{d}} days": "{{d}} 天"
   },
   "Preferences": {
-    "Language": "",
-    "Currency": ""
+    "Language": null,
+    "Currency": null
   },
   "Auth": {
     "Connect": "连接",
-    "Disconnect": "",
+    "Disconnect": null,
     "New wallet": "新钱包",
-    "Recover wallet": "",
-    "Connect wallet": "",
+    "Recover wallet": null,
+    "Connect wallet": null,
     "Password": "密码",
     "Confirm password": "确认密码",
     "Password does not match": "密码不匹配",
@@ -87,16 +87,16 @@
     "New password": "新密码",
     "Confirm new password": "确认新密码",
     "Incorrect password": "密码不正确",
-    "Export wallet": "",
+    "Export wallet": null,
     "Delete wallet": "删除钱包",
-    "Install extension": ""
+    "Install extension": null
   },
   "Menu": {
     "Dashboard": "仪表盘",
     "Wallet": "钱包",
-    "NFT": "",
+    "NFT": null,
     "History": "交易记录",
-    "Stake": "",
+    "Stake": null,
     "Governance": "治理",
     "Contract": "智能合约"
   },
@@ -111,64 +111,64 @@
     "Transaction volume": "交易量",
     "Staking return": "质押收益",
     "Tax rewards": "税收奖励",
-    "Wallets": ""
+    "Wallets": null
   },
   "Wallet": {
     "Coins": "货币",
-    "Tokens": "",
-    "Add tokens": "",
-    "Manage list": "",
-    "Buy": "",
-    "Exchanges": "",
-    "Fiat": ""
+    "Tokens": null,
+    "Add tokens": null,
+    "Manage list": null,
+    "Buy": null,
+    "Exchanges": null,
+    "Fiat": null
   },
   "Txs": {
     "Send": "转出",
     "Swap": "兑换",
-    "Stake": "",
+    "Stake": null,
     "Delegate": "委托",
     "Redelegate": "再委托",
     "Undelegate": "取消委托",
-    "Withdraw rewards": "",
-    "Withdraw commission": "",
+    "Withdraw rewards": null,
+    "Withdraw commission": null,
     "New proposal": "提案",
     "Deposit": "保证金",
     "Vote": "投票",
-    "Transfer NFT": "",
-    "Earn": ""
+    "Transfer NFT": null,
+    "Earn": null
   },
   "Swap": {
-    "From": "",
-    "To": "",
+    "From": null,
+    "To": null,
     "Spread": "价差(Spread)",
-    "Slippage tolerance": "",
-    "Oracle price": "",
-    "Pair price": "",
-    "Expected price": "",
-    "Minimum received": "",
-    "Trading fee": ""
+    "Slippage tolerance": null,
+    "Oracle price": null,
+    "Pair price": null,
+    "Expected price": null,
+    "Minimum received": null,
+    "Trading fee": null
   },
   "Stake": {
     "Delegations": "委托",
-    "Undelegations": "",
+    "Undelegations": null,
     "Delegated": "委托",
     "Undelegated": "取消委托",
-    "Staking rewards": ""
+    "Staking rewards": null
   },
   "Validator": {
-    "Validators": "",
+    "Validators": null,
     "Voting power": "投票权",
     "Commission": "手续费",
     "Validator details": "验证人详情",
     "Operator address": "运营地址",
     "Account address": "账户地址",
-    "Jailed": ""
+    "Jailed": null
   },
   "Governance": {
     "Voting": "投票中",
-    "Votes": "",
+    "Votes": null,
     "Initial deposit": "初始保证金",
-    "Deposited": "",
+    "Deposited": null,
     "Depositors": "担保人们",
     "Depositor": "担保人",
     "Deposit end time": "保证金结束时间",
@@ -178,13 +178,13 @@
     "Maximum deposit period": "最大保证金周期",
     "Voting period": "投票期",
     "Proposal details": "提案详情",
-    "Proposal type": "",
+    "Proposal type": null,
     "Title": "标题",
     "Description": "描述",
     "Changes": "更改的内容",
     "Yes": "赞成",
     "No": "反对",
-    "No with veto": "",
+    "No with veto": null,
     "Abstain": "弃权",
     "Tallying procedure": "统计过程",
     "Quorum": "法定人数(Quorum)",
@@ -193,20 +193,20 @@
   },
   "Contract": {
     "Upload": "上传",
-    "Instantiate": "",
+    "Instantiate": null,
     "Query": "查询",
-    "Execute": "",
-    "Upload a wasm file": "",
+    "Execute": null,
+    "Upload a wasm file": null,
     "File": "文件",
     "Size": "文件大小",
-    "Instantiate a code": ""
+    "Instantiate a code": null
   },
   "NFT": {
-    "Marketplace": "",
-    "Collection": ""
+    "Marketplace": null,
+    "Collection": null
   },
   "Address book": {
-    "Address book": "",
-    "Add a new address": ""
+    "Address book": null,
+    "Add a new address": null
   }
 }

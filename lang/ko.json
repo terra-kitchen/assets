@@ -1,16 +1,16 @@
 {
   "Blockchain": {
-    "Mnemonic": "",
+    "Mnemonic": null,
     "Address": "주소",
     "Wallet": "지갑",
-    "Wallets": "",
-    "Balance": "",
-    "Tx hash": "",
-    "Gas": "",
+    "Wallets": null,
+    "Balance": null,
+    "Tx hash": null,
+    "Gas": null,
     "Tax": "세금",
     "Fee": "수수료",
-    "decimals": "",
-    "APY": ""
+    "decimals": null,
+    "APY": null
   },
   "Form": {
     "Amount": "수량",
@@ -18,67 +18,67 @@
     "Address": "주소",
     "Memo": "메모",
     "Name": "이름",
-    "optional": "",
-    "Submit": "",
+    "optional": null,
+    "Submit": null,
     "Confirm": "확인",
-    "Reset": ""
+    "Reset": null
   },
   "Validate": {
     "{{label}} is required": "{{label}}을(를) 입력해주세요",
-    "{{label}} is not defined": "",
-    "{{label}} is not available": "",
-    "{{label}} is not supported": "",
+    "{{label}} is not defined": null,
+    "{{label}} is not available": null,
+    "{{label}} is not supported": null,
     "{{label}} is invalid": "잘못된 {{label}}입니다",
     "{{label}} already exists": "{{label}}이(가) 이미 존재합니다",
-    "{{label}} does not exist": "",
-    "{{label}} must be longer than {{length}} characters": "",
-    "Already exists": "",
+    "{{label}} does not exist": null,
+    "{{label}} must be longer than {{length}} characters": null,
+    "Already exists": null,
     "Invalid": "유효하지 않습니다",
-    "Invalid {{label}}": ""
+    "Invalid {{label}}": null
   },
   "Loading": {
-    "Initializing app...": "",
+    "Initializing app...": null,
     "Loading...": "가져오는 중...",
     "Simulating...": "시뮬레이션하는 중...",
-    "Broadcasting a tx...": "",
-    "Broadcasting transaction": "",
-    "Queued": ""
+    "Broadcasting a tx...": null,
+    "Broadcasting transaction": null,
+    "Queued": null
   },
   "Success": {
     "Success!": "성공!"
   },
   "Failure": {
-    "Failed": "",
-    "Simulation failed": "",
-    "User denied": "",
-    "Failed to create tx": "",
-    "Tx failed": ""
+    "Failed": null,
+    "Simulation failed": null,
+    "User denied": null,
+    "Failed to create tx": null,
+    "Tx failed": null
   },
   "Application": {
-    "Go back": "",
-    "View": "",
-    "Show all": "",
+    "Go back": null,
+    "View": null,
+    "Show all": null,
     "Copy": "복사",
     "Copied": "복사 완료",
     "Active": "활성",
-    "Inactive": "",
-    "Not found": ""
+    "Inactive": null,
+    "Not found": null
   },
   "Units": {
-    "year": "",
-    "day": "",
+    "year": null,
+    "day": null,
     "{{d}} days": "{{d}}일간"
   },
   "Preferences": {
-    "Language": "",
-    "Currency": ""
+    "Language": null,
+    "Currency": null
   },
   "Auth": {
     "Connect": "연결하기",
-    "Disconnect": "",
+    "Disconnect": null,
     "New wallet": "새 지갑",
-    "Recover wallet": "",
-    "Connect wallet": "",
+    "Recover wallet": null,
+    "Connect wallet": null,
     "Password": "비밀번호",
     "Confirm password": "비밀번호 확인",
     "Password does not match": "비밀번호가 일치하지 않습니다",
@@ -87,16 +87,16 @@
     "New password": "새 비밀번호",
     "Confirm new password": "새 비밀번호 확인",
     "Incorrect password": "잘못된 비밀번호입니다",
-    "Export wallet": "",
+    "Export wallet": null,
     "Delete wallet": "지갑 삭제",
-    "Install extension": ""
+    "Install extension": null
   },
   "Menu": {
     "Dashboard": "대시보드",
     "Wallet": "지갑",
-    "NFT": "",
+    "NFT": null,
     "History": "이력",
-    "Stake": "",
+    "Stake": null,
     "Governance": "거버넌스",
     "Contract": "계약"
   },
@@ -111,64 +111,64 @@
     "Transaction volume": "거래량",
     "Staking return": "스테이킹 수익",
     "Tax rewards": "세금 보상",
-    "Wallets": ""
+    "Wallets": null
   },
   "Wallet": {
     "Coins": "코인",
-    "Tokens": "",
-    "Add tokens": "",
-    "Manage list": "",
-    "Buy": "",
-    "Exchanges": "",
-    "Fiat": ""
+    "Tokens": null,
+    "Add tokens": null,
+    "Manage list": null,
+    "Buy": null,
+    "Exchanges": null,
+    "Fiat": null
   },
   "Txs": {
     "Send": "보내기",
     "Swap": "환전",
-    "Stake": "",
+    "Stake": null,
     "Delegate": "위임",
     "Redelegate": "재위임",
     "Undelegate": "위임 취소",
-    "Withdraw rewards": "",
-    "Withdraw commission": "",
+    "Withdraw rewards": null,
+    "Withdraw commission": null,
     "New proposal": "제안하기",
     "Deposit": "보증금",
     "Vote": "투표",
-    "Transfer NFT": "",
-    "Earn": ""
+    "Transfer NFT": null,
+    "Earn": null
   },
   "Swap": {
-    "From": "",
-    "To": "",
+    "From": null,
+    "To": null,
     "Spread": "스프레드",
-    "Slippage tolerance": "",
-    "Oracle price": "",
-    "Pair price": "",
-    "Expected price": "",
-    "Minimum received": "",
-    "Trading fee": ""
+    "Slippage tolerance": null,
+    "Oracle price": null,
+    "Pair price": null,
+    "Expected price": null,
+    "Minimum received": null,
+    "Trading fee": null
   },
   "Stake": {
     "Delegations": "위임",
-    "Undelegations": "",
+    "Undelegations": null,
     "Delegated": "위임",
     "Undelegated": "위임 취소",
-    "Staking rewards": ""
+    "Staking rewards": null
   },
   "Validator": {
-    "Validators": "",
+    "Validators": null,
     "Voting power": "보팅 파워",
     "Commission": "수수료",
     "Validator details": "검증인 세부 사항",
     "Operator address": "운영 주소",
     "Account address": "계정 주소",
-    "Jailed": ""
+    "Jailed": null
   },
   "Governance": {
     "Voting": "투표하는 중",
-    "Votes": "",
+    "Votes": null,
     "Initial deposit": "초기 보증금",
-    "Deposited": "",
+    "Deposited": null,
     "Depositors": "보증자들",
     "Depositor": "보증자",
     "Deposit end time": "보증금 입금 종료",
@@ -178,13 +178,13 @@
     "Maximum deposit period": "최대 보증금 입금 기간",
     "Voting period": "투표 기간",
     "Proposal details": "제안 세부 사항",
-    "Proposal type": "",
+    "Proposal type": null,
     "Title": "제목",
     "Description": "설명",
     "Changes": "변경할 내용",
     "Yes": "찬성",
     "No": "반대",
-    "No with veto": "",
+    "No with veto": null,
     "Abstain": "기권",
     "Tallying procedure": "합산 절차",
     "Quorum": "최소 투표참여율",
@@ -193,20 +193,20 @@
   },
   "Contract": {
     "Upload": "업로드",
-    "Instantiate": "",
+    "Instantiate": null,
     "Query": "쿼리하기",
-    "Execute": "",
-    "Upload a wasm file": "",
+    "Execute": null,
+    "Upload a wasm file": null,
     "File": "파일",
     "Size": "크기",
-    "Instantiate a code": ""
+    "Instantiate a code": null
   },
   "NFT": {
-    "Marketplace": "",
-    "Collection": ""
+    "Marketplace": null,
+    "Collection": null
   },
   "Address book": {
-    "Address book": "",
-    "Add a new address": ""
+    "Address book": null,
+    "Add a new address": null
   }
 }

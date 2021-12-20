@@ -1,16 +1,16 @@
 {
   "Blockchain": {
-    "Mnemonic": null,
+    "Mnemonic": "",
     "Address": "Indirizzo",
     "Wallet": "Portafoglio",
-    "Wallets": null,
-    "Balance": null,
-    "Tx hash": null,
-    "Gas": null,
+    "Wallets": "",
+    "Balance": "",
+    "Tx hash": "",
+    "Gas": "",
     "Tax": "Tassa",
     "Fee": "Tassa",
-    "decimals": null,
-    "APY": null
+    "decimals": "",
+    "APY": ""
   },
   "Form": {
     "Amount": "Quantità",
@@ -18,67 +18,67 @@
     "Address": "Indirizzo",
     "Memo": "Memo",
     "Name": "Nome",
-    "optional": null,
-    "Submit": null,
+    "optional": "",
+    "Submit": "",
     "Confirm": "Conferma",
-    "Reset": null
+    "Reset": ""
   },
   "Validate": {
     "{{label}} is required": "{{label}} è obbligatorio",
-    "{{label}} is not defined": null,
-    "{{label}} is not available": null,
-    "{{label}} is not supported": null,
+    "{{label}} is not defined": "",
+    "{{label}} is not available": "",
+    "{{label}} is not supported": "",
     "{{label}} is invalid": "{{label}} non è valido",
     "{{label}} already exists": "{{label}} esiste già",
-    "{{label}} does not exist": null,
-    "{{label}} must be longer than {{length}} characters": null,
-    "Already exists": null,
+    "{{label}} does not exist": "",
+    "{{label}} must be longer than {{length}} characters": "",
+    "Already exists": "",
     "Invalid": "Non valido",
-    "Invalid {{label}}": null
+    "Invalid {{label}}": ""
   },
   "Loading": {
-    "Initializing app...": null,
+    "Initializing app...": "",
     "Loading...": "Caricamento...",
     "Simulating...": "Simulazione...",
-    "Broadcasting a tx...": null,
-    "Broadcasting transaction": null,
-    "Queued": null
+    "Broadcasting a tx...": "",
+    "Broadcasting transaction": "",
+    "Queued": ""
   },
   "Success": {
     "Success!": "Successo!"
   },
   "Failure": {
-    "Failed": null,
-    "Simulation failed": null,
-    "User denied": null,
-    "Failed to create tx": null,
-    "Tx failed": null
+    "Failed": "",
+    "Simulation failed": "",
+    "User denied": "",
+    "Failed to create tx": "",
+    "Tx failed": ""
   },
   "Application": {
-    "Go back": null,
-    "View": null,
-    "Show all": null,
+    "Go back": "",
+    "View": "",
+    "Show all": "",
     "Copy": "Copia",
     "Copied": "Copiato",
     "Active": "Attivo",
-    "Inactive": null,
-    "Not found": null
+    "Inactive": "",
+    "Not found": ""
   },
   "Units": {
-    "year": null,
-    "day": null,
+    "year": "",
+    "day": "",
     "{{d}} days": "{{d}} giorni"
   },
   "Preferences": {
-    "Language": null,
-    "Currency": null
+    "Language": "",
+    "Currency": ""
   },
   "Auth": {
     "Connect": "Connettiti",
-    "Disconnect": null,
+    "Disconnect": "",
     "New wallet": "Crea un nuovo Portafoglio",
-    "Recover wallet": null,
-    "Connect wallet": null,
+    "Recover wallet": "",
+    "Connect wallet": "",
     "Password": "Password",
     "Confirm password": "Conferma password",
     "Password does not match": "La Password non corrisponde",
@@ -87,16 +87,16 @@
     "New password": "Nuova password",
     "Confirm new password": "Conferma nuova password",
     "Incorrect password": "Password errata",
-    "Export wallet": null,
+    "Export wallet": "",
     "Delete wallet": "Cancella wallet",
-    "Install extension": null
+    "Install extension": ""
   },
   "Menu": {
     "Dashboard": "Dashboard",
     "Wallet": "Portafoglio",
-    "NFT": null,
+    "NFT": "",
     "History": "Cronologia",
-    "Stake": null,
+    "Stake": "",
     "Governance": "Governance",
     "Contract": "Contratto"
   },
@@ -111,64 +111,64 @@
     "Transaction volume": "Volume di transazione",
     "Staking return": "Rendimento Staking",
     "Tax rewards": "Ricompense Tasse",
-    "Wallets": null
+    "Wallets": ""
   },
   "Wallet": {
     "Coins": "Coins",
-    "Tokens": null,
-    "Add tokens": null,
-    "Manage list": null,
-    "Buy": null,
-    "Exchanges": null,
-    "Fiat": null
+    "Tokens": "",
+    "Add tokens": "",
+    "Manage list": "",
+    "Buy": "",
+    "Exchanges": "",
+    "Fiat": ""
   },
   "Txs": {
     "Send": "Invia",
     "Swap": "Swap",
-    "Stake": null,
+    "Stake": "",
     "Delegate": "Delega",
     "Redelegate": "Ridelega",
     "Undelegate": "Revoca la delega",
-    "Withdraw rewards": null,
-    "Withdraw commission": null,
+    "Withdraw rewards": "",
+    "Withdraw commission": "",
     "New proposal": "Nuova proposta",
     "Deposit": "Deposito",
     "Vote": "Vota",
-    "Transfer NFT": null,
-    "Earn": null
+    "Transfer NFT": "",
+    "Earn": ""
   },
   "Swap": {
-    "From": null,
-    "To": null,
+    "From": "",
+    "To": "",
     "Spread": "Spread",
-    "Slippage tolerance": null,
-    "Oracle price": null,
-    "Pair price": null,
-    "Expected price": null,
-    "Minimum received": null,
-    "Trading fee": null
+    "Slippage tolerance": "",
+    "Oracle price": "",
+    "Pair price": "",
+    "Expected price": "",
+    "Minimum received": "",
+    "Trading fee": ""
   },
   "Stake": {
     "Delegations": "Delegazioni",
-    "Undelegations": null,
+    "Undelegations": "",
     "Delegated": "Delegato",
     "Undelegated": "Non delegato",
-    "Staking rewards": null
+    "Staking rewards": ""
   },
   "Validator": {
-    "Validators": null,
+    "Validators": "",
     "Voting power": "Potere di Voto",
     "Commission": "Commissione",
     "Validator details": "Informazioni sul validatore",
     "Operator address": "Indirizzo operatore",
     "Account address": "Indirizzo Account",
-    "Jailed": null
+    "Jailed": ""
   },
   "Governance": {
     "Voting": "Voto",
-    "Votes": null,
+    "Votes": "",
     "Initial deposit": "Deposito iniziale",
-    "Deposited": null,
+    "Deposited": "",
     "Depositors": "Depositanti",
     "Depositor": "Depositatnte",
     "Deposit end time": "Fine deposito",
@@ -178,13 +178,13 @@
     "Maximum deposit period": "Deposito Massimo",
     "Voting period": "Periodo di voto",
     "Proposal details": "Dettagli proposta",
-    "Proposal type": null,
+    "Proposal type": "",
     "Title": "Titolo",
     "Description": "Descrizione",
     "Changes": "Cambio",
     "Yes": "Sí",
     "No": "No",
-    "No with veto": null,
+    "No with veto": "",
     "Abstain": "Astenuto",
     "Tallying procedure": "Procedura di conteggio",
     "Quorum": "Quorum",
@@ -193,20 +193,20 @@
   },
   "Contract": {
     "Upload": "Carica",
-    "Instantiate": null,
+    "Instantiate": "",
     "Query": "Ricerca",
-    "Execute": null,
-    "Upload a wasm file": null,
+    "Execute": "",
+    "Upload a wasm file": "",
     "File": "File",
     "Size": "Dimensione",
-    "Instantiate a code": null
+    "Instantiate a code": ""
   },
   "NFT": {
-    "Marketplace": null,
-    "Collection": null
+    "Marketplace": "",
+    "Collection": ""
   },
   "Address book": {
-    "Address book": null,
-    "Add a new address": null
+    "Address book": "",
+    "Add a new address": ""
   }
 }

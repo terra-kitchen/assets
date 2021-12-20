@@ -44,7 +44,9 @@
     "Broadcasting transaction": "",
     "Queued": ""
   },
-  "Success": { "Success!": "Sukces!" },
+  "Success": {
+    "Success!": "Sukces!"
+  },
   "Failure": {
     "Failed": "",
     "Simulation failed": "",
@@ -62,8 +64,15 @@
     "Inactive": "",
     "Not found": ""
   },
-  "Units": { "year": "", "day": "", "{{d}} days": "{{d}} dni" },
-  "Preferences": { "Language": "", "Currency": "" },
+  "Units": {
+    "year": "",
+    "day": "",
+    "{{d}} days": "{{d}} dni"
+  },
+  "Preferences": {
+    "Language": "",
+    "Currency": ""
+  },
   "Auth": {
     "Connect": "Połącz",
     "Disconnect": "",
@@ -192,6 +201,12 @@
     "Size": "Rozmiar",
     "Instantiate a code": ""
   },
-  "NFT": { "Marketplace": "", "Collection": "" },
-  "Address book": { "Address book": "", "Add a new address": "" }
+  "NFT": {
+    "Marketplace": "",
+    "Collection": ""
+  },
+  "Address book": {
+    "Address book": "",
+    "Add a new address": ""
+  }
 }

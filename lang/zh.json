@@ -44,7 +44,9 @@
     "Broadcasting transaction": "",
     "Queued": ""
   },
-  "Success": { "Success!": "成功！" },
+  "Success": {
+    "Success!": "成功！"
+  },
   "Failure": {
     "Failed": "",
     "Simulation failed": "",
@@ -62,8 +64,15 @@
     "Inactive": "",
     "Not found": ""
   },
-  "Units": { "year": "", "day": "", "{{d}} days": "{{d}} 天" },
-  "Preferences": { "Language": "", "Currency": "" },
+  "Units": {
+    "year": "",
+    "day": "",
+    "{{d}} days": "{{d}} 天"
+  },
+  "Preferences": {
+    "Language": "",
+    "Currency": ""
+  },
   "Auth": {
     "Connect": "连接",
     "Disconnect": "",
@@ -192,6 +201,12 @@
     "Size": "文件大小",
     "Instantiate a code": ""
   },
-  "NFT": { "Marketplace": "", "Collection": "" },
-  "Address book": { "Address book": "", "Add a new address": "" }
+  "NFT": {
+    "Marketplace": "",
+    "Collection": ""
+  },
+  "Address book": {
+    "Address book": "",
+    "Add a new address": ""
+  }
 }
